@@ -1,0 +1,65 @@
+.background{
+    background-color: white;
+    background-attachment: fixed;
+    font-family: sans-serif;
+}
+.color{
+    color: red;
+}
+.float{
+    float: left;
+    width: 50%;
+}
+.width{
+    float: left;
+    text-align: left;
+    width: 20%;
+}
+* {
+    box-sizing: border-box;
+}
+html, body {
+    padding: 0;
+    margin: 0;
+}
+.image{
+    height: 500px;
+    border-radius: 5px;
+    width: 100%;
+}
+.img{
+    width: 250px;
+    height: 250px;
+    
+}
+.container{
+    padding: 5px;
+    display: inline-block;
+}
+.quick{
+    
+    background-color: steelblue;
+    width: 100%
+    
+    
+}
+.item{
+    border-left: 2px solid green;
+    padding: 5px;
+    
+}
+.sec{
+    background-color: lightgrey;
+    width: 100%;
+    margin: 20px;
+}
+.wid{
+    width: 20%;
+    text-align: left;
+    float: right;
+}
+m.{
+    width: ;
+    height: 50px;
+    border-radius: 5px;
+}
